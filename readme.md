@@ -1,4 +1,3 @@
-```markdown
 # Clustering Pelanggan dan Hub untuk Optimasi Logistik
 
 ## **Deskripsi Proyek**
@@ -47,7 +46,6 @@ Setiap pelanggan memiliki atribut berikut:
   { "id": "C123", "location": [-6.2, 106.8], "frequency": 20, "orderValue": 500 },
   { "id": "C124", "location": [-6.3, 107.0], "frequency": 15, "orderValue": 300 }
 ]
-```
 
 ### **2. Data Hub**
 Setiap hub memiliki atribut berikut:
